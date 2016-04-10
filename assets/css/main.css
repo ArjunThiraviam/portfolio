@@ -334,10 +334,10 @@ body {
 
 .titlea {
     font-size: 28px;
-    line-height: 1;
+    line-height: 1.6;
     font-weight: 700;
     color: #444;
-    margin-bottom: 35px;
+    margin-bottom: 40px;
 }
 
 .regular-text {
