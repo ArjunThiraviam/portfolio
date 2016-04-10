@@ -6,7 +6,7 @@
   Version    :  1.0
   Author     :  Bdinfosys
   Author URI :  http://themeforest.net/user/bdinfosys
-====================================================
+====================================================ti
 
    TOC:
   =======
@@ -325,7 +325,7 @@ body {
 
 .title {
     font-size: 48px;
-    line-height: 1;
+    line-height: .2;
     font-weight: 700;
     color: #333;
     text-transform: uppercase;
@@ -334,9 +334,9 @@ body {
 
 .titlea {
     font-size: 28px;
-    line-height: 1.1;
+    line-height: 1;
     font-weight: 700;
-    color: #333;
+    color: #444;
     margin-bottom: 35px;
 }
 
