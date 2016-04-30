@@ -163,6 +163,7 @@ body {
     color: #fff;
     font-weight: 400;
     background-color: #fafafa;
+    overflow-y:scroll;
 }
 
 #preloader {
